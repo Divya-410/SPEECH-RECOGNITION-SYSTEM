@@ -13,9 +13,7 @@ DURATION : 12 WEEKS
 MENTOR : NEELA SANTOSH
 
 DESCRIPTION :
-
-        Speech recognition is a powerful technology that converts spoken language into text. With advancements in deep learning and natural language processing (NLP), speech recognition systems have significantly improved. One of the most effective models for automatic speech recognition (ASR) is Wav2Vec2, developed by Facebook AI (Meta). This project implements a speech recognition system using Wav2Vec2 in Python, leveraging transformers, PyTorch, and deep learning to transcribe audio into text.
-
+ 
 Overview of Wav2Vec2
 Wav2Vec2 is a self-supervised learning model that directly processes raw audio waveforms and learns speech representations. Unlike traditional ASR systems, which require manually labeled datasets and phonetic dictionaries, Wav2Vec2 learns from unlabeled speech data and fine-tunes on specific languages or accents.
 
