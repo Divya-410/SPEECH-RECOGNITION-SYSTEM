@@ -56,3 +56,6 @@ The Wav2Vec2-powered speech recognition system has diverse applications, includi
 🔹 Call Center Analytics: Converts customer service calls into text for sentiment analysis.
 🔹 Accessibility Tools: Helps individuals with hearing impairments by transcribing conversations.
 🔹 Legal Transcriptions: Converts court proceedings and meetings into structured text.
+
+OUTPUT :
+  ![Image](https://github.com/user-attachments/assets/2e2e0955-a904-4de3-9910-99902b1ac720)
